@@ -1,0 +1,7 @@
+ ((components (extension day1))
+  (version 1.0)
+  (license "BSD")
+  (author "Robert C Jensen")
+  (synopsis "Day 1")
+  (dependencies matchable)
+  (test-dependencies test))
